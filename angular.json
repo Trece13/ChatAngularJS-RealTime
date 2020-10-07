@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ChatAngularJS-RealTime"
+    }
+  },
+  "defaultProject": "ChatAngularJS-RealTime",
+  "cli": {
+    "analytics": "ea9582f6-1a3e-498d-b9ad-1bf8d3938e76"
+  }
 }
